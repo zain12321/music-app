@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "lyrics",
+			"path": "."
+		},
+		{
+			"name": "music-app",
+			"path": "E:/React-Redux/music-app"
+		}
+	],
+	"settings": {}
+}
